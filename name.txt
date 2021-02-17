@@ -1,1 +1,6 @@
 this is new file to check conflict
+=======
+Start conflict 
+=============
+
+solved the conflict
