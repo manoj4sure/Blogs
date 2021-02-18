@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 Start conflict 
 
 Working in progress
+=======
+this is new file to check conflict
+=======
+Start conflict 
+=============
+
+solved the conflict
+>>>>>>> 3bcb5e191e151a6de90b96b0a8fa9a0c44c72975
